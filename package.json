@@ -1,0 +1,13 @@
+{
+  "name": "@instun/event",
+  "version": "1.0.0",
+  "description": "A async pool module for fibjs, nodejs, browser and react native",
+  "repository": "https://github.com/Instun/event",
+  "main": "lib/index.js",
+  "keywords": "",
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
