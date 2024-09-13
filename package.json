@@ -1,7 +1,7 @@
 {
   "name": "@instun/event",
-  "version": "1.0.0",
-  "description": "A async pool module for fibjs, nodejs, browser and react native",
+  "version": "1.0.1",
+  "description": "A async event module for fibjs, nodejs, browser and react native",
   "repository": "https://github.com/Instun/event",
   "main": "lib/index.js",
   "keywords": "",
