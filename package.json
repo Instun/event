@@ -1,10 +1,15 @@
 {
   "name": "@instun/event",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A async event module for fibjs, nodejs, browser and react native",
   "repository": "https://github.com/Instun/event",
   "main": "lib/index.js",
-  "keywords": "",
+  "keywords": [
+    "event",
+    "async",
+    "promise",
+    "wait"
+  ],
   "author": "",
   "license": "MIT",
   "publishConfig": {
